@@ -159,7 +159,11 @@ int main()
 }
 
 ```
- 
+
+<h2>In Sort</h2>
+
+<p>The stack is the simplest data structure and easier to implement as a program. It used the LIFO (last in, first out) approach which means the element entered last is the one that is removed first. This is because stack uses only one end to add (push) and remove (pop) elements.</p>
+<p>The stack data structure has many uses in software programming. The prominent one among them is expression evaluations. Expression evaluation also includes converting the expression from infix to postfix or prefix. It also involves evaluating the expression to produce the final result.</p>
 
 | Name         | Link                  |
 | ------------ | ---------------------- |
